@@ -1,21 +1,24 @@
 ## 8. Riscos e Mitigação
 
-- Riscos Técnicos: 
-Bugs e falhas no sistema.
-Mitigação: testes frequentes, revisão de código.
+### Riscos Técnicos
 
-Falta de conhecimento técnico.
-Mitigação: estudo em grupo e reuniões de alinhamento.
+- **Bugs e falhas no sistema**  
+  **Mitigação:** realização de testes frequentes, revisão de código e monitoramento contínuo.
 
-Problemas de desempenho com muitos registros.
-Mitigação: otimização de consultas ao banco, uso de índices, paginação das listas e testes de carga.
+- **Falta de conhecimento técnico da equipe**  
+  **Mitigação:** estudo em grupo, capacitação e reuniões de alinhamento técnico.
 
-- Riscos Operacionais:
-Requisitos mal entendidos.
-Mitigação: validações constantes.
+- **Problemas de desempenho com grande volume de registros**  
+  **Mitigação:** otimização das consultas ao banco de dados, uso de índices, paginação de listas e execução de testes de carga.
 
-Falhas de infraestrutura.
-Mitigação: backups e alternativas de trabalho (local/nuvem).
 
-Cadastro incorreto de serviços, peças ou valores.
-Mitigação: validação de campos obrigatórios, regras de permissão (quem pode alterar preços) e revisões periódicas de cadastros.
+### Riscos Operacionais
+
+- **Requisitos mal interpretados ou incompletos**  
+  **Mitigação:** validações constantes com stakeholders e revisões periódicas dos requisitos.
+
+- **Falhas de infraestrutura**  
+  **Mitigação:** backups recorrentes, redundância e alternativas de operação (ambiente local e nuvem).
+
+- **Cadastro incorreto de serviços, peças ou valores**  
+  **Mitigação:** validação de campos obrigatórios, definição de permissões para alteração de preços e revisões periódicas dos cadastros.

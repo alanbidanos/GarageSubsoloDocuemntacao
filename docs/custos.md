@@ -7,8 +7,8 @@ Estes são os custos relacionados à criação e implementação do sistema.
 
 | Item | Descrição | Custo Estimado |
 |------|-----------|----------------|
-| Desenvolvimento do Sistema | Implementação de backend, frontend, APIs, banco de dados e integrações | R$ 8.000,00 |
-| Prototipação e Design | Criação de telas, fluxos e experiências de usuário | R$ 1.200,00 |
+| Desenvolvimento do Sistema | Implementação de back-end, front-end, APIs, banco de dados e integrações | R$ 8.000,00 |
+| Prototipação e Design | Criação de telas, fluxos e experiência do usuário | R$ 1.200,00 |
 | Testes e Garantia de Qualidade | Testes funcionais, unitários e correções | R$ 1.000,00 |
 | Documentação | Criação e manutenção da documentação técnica e funcional | R$ 800,00 |
 
@@ -22,25 +22,25 @@ Custos estimados para manter o sistema em funcionamento.
 | Item | Descrição | Custo Mensal | Custo Anual |
 |------|-----------|--------------|-------------|
 | Servidor em Nuvem (ex.: AWS, Azure ou Google Cloud) | Instância básica com banco de dados | R$ 80,00 | R$ 960,00 |
-| Banco de Dados (Firebase, PostgreSQL, etc.) | Consumo, requisições e armazenamento | R$ 40,00 | R$ 480,00 |
-| Hospedagem de Site | Domínio + certificado | R$ 30,00 | R$ 360,00 |
+| Banco de Dados (Firebase, PostgreSQL etc.) | Consumo, requisições e armazenamento | R$ 40,00 | R$ 480,00 |
+| Hospedagem de Site | Domínio + certificado SSL | R$ 30,00 | R$ 360,00 |
 
 **Subtotal Infraestrutura Anual:** **R$ 1.800,00**
 
 ---
 
 ## 9.3 Custos Operacionais
-Custos relacionados ao uso contínuo e manutenção do sistema.
+Custos relacionados ao uso contínuo e à manutenção do sistema.
 
 | Item | Descrição | Custo Estimado |
 |------|-----------|----------------|
 | Manutenção e Suporte Técnico | Correções, ajustes e pequenas melhorias | R$ 3.600,00/ano |
 | Atualizações do Sistema | Melhorias maiores e incrementais | R$ 2.000,00/ano |
-| Treinamento de Funcionários | Capacitação sobre uso do sistema | R$ 200,00 |
+| Treinamento de Funcionários | Capacitação para uso do sistema | R$ 200,00 |
 
 **Subtotal Operacional:**  
 - Mensal: **R$ 300,00**  
-- Anual: **R$ 5.800,00** 
+- Anual: **R$ 5.800,00**
 
 ---
 
@@ -52,13 +52,13 @@ Custos relacionados ao uso contínuo e manutenção do sistema.
 | Infraestrutura (anual) | R$ 1.800,00 |
 | Operacional (anual) | R$ 5.800,00 |
 
-**Total do primeiro ano: R$ 18.600,00**
+**Total do primeiro ano:** **R$ 18.600,00**
 
-*(Após o primeiro ano, o custo reduz para cerca de **R$ 7.600,00/ano**, já que o desenvolvimento é gasto único).*
+*(Após o primeiro ano, o custo reduz para cerca de **R$ 7.600,00/ano**, já que o desenvolvimento é um gasto único.)*
 
 ---
 
 ## 9.5 Observações
 - Os valores são estimados e podem variar conforme as tecnologias e provedores escolhidos.  
-- Se o sistema crescer em usuários, será necessário aumentar a capacidade do servidor.  
-- É possível reduzir custos iniciais usando camadas gratuitas ou planos estudantis (Firebase, Vercel, Railway, etc.).
+- Caso o sistema cresça em número de usuários, será necessário ampliar a capacidade do servidor.  
+- É possível reduzir custos iniciais utilizando camadas gratuitas ou planos estudantis (Firebase, Vercel, Railway etc.).  

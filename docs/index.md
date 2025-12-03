@@ -3,8 +3,8 @@ layout: home
 
 hero:
   name: "Garage Subsolo - Oficina de Bicicletas"
-  text: "Documentação- Loja e reparo especializada em bicicletas."
-  tagline: "Sistema gerênciador da mecânica, estoque, marketplace e estoque da loja fisíca."
+  text: "Documentação — Loja e reparo especializado em bicicletas."
+  tagline: "Sistema gerenciador da mecânica, estoque, marketplace e loja física."
 
   actions:
     - theme: brand
@@ -12,18 +12,17 @@ hero:
       link: /introducao
     - theme: alt
       text: Ver no GitHub
-      link: https://github.com/alanbidanos/GarageSubsoloDocuemntacao 
+      link: https://github.com/alanbidanos/GarageSubsoloDocumentacao
 
 features:
   - title: Venda e aluguel
-    details: Gestionador de vendas, alugueis, inadimplências e disponibilidade de bicicletas, acessórios e peças.
+    details: Gerenciamento de vendas, aluguéis, inadimplências e disponibilidade de bicicletas, acessórios e peças.
   - title: Chamadas de emergência 24 horas
-    details: Chamado de emergência no caso de quebra ou reparo mau realizado.
-  - title: E-commerce e merketplace
-    details: Loja virtual aonde serão ofertadas as vendas e alugueis da loja, além da venda de produtos usados pelos usúarios.
+    details: Chamados de emergência em caso de quebra ou reparo mal realizado.
+  - title: E-commerce e marketplace
+    details: Loja virtual onde serão ofertadas vendas e aluguéis da loja, além da comercialização de produtos usados pelos usuários.
   - title: Requisição de reparo
-    details: Disposição de socilitar uma reserva e verificar disponibilidade para realização de reparos na bicicleta.
+    details: Possibilidade de solicitar uma reserva e verificar disponibilidade para realização de reparos na bicicleta.
 ---
 
-  
-Integrantes: Alan Cézar; Arthur Senger; Felipe santos; Milena Zang.
+Integrantes: Alan Cézar; Arthur Senger; Felipe Santos; Milena Zang.
