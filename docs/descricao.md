@@ -7,7 +7,7 @@ O objetivo deste documento é fornecer uma visão geral do projeto Garage Subsol
 
 
 ## 2.1.1 Canvas do Projeto
-![Canvas](/docs/public/img/canvas.png)  
+![Canvas](/img/canvas.png)  
 
 ## 2.2 Stakeholders
 - Usuários de bicicletas - Pessoas com uma pretensão a consumir produtos do ciclismo.
