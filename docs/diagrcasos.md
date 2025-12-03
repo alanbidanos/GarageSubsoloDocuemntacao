@@ -1,5 +1,5 @@
 ## 4. Diagrama de Caso de Uso
-![diagrcasos](/img/diagrcasos.png)  
+![diagrcasos](./img/diagrcasos.png)  
 
 https://drive.google.com/file/d/1X3uBM3SXDDQSDBN9yO-RBLclI3A_SdEh/view?usp=sharing
 
