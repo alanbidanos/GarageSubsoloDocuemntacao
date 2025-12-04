@@ -12,7 +12,7 @@ hero:
       link: /introducao
     - theme: alt
       text: Ver no GitHub
-      link: https://github.com/alanbidanos/GarageSubsoloDocumentacao
+      link: https://github.com/alanbidanos/GarageSubsoloDocuemntacao
 
 features:
   - title: Venda e aluguel
