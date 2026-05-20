@@ -23,7 +23,7 @@ features:
     details: Loja virtual onde serão ofertadas vendas e aluguéis da loja, além da comercialização de produtos usados pelos usuários.
   - title: Requisição de reparo
     details: Possibilidade de solicitar uma reserva e verificar disponibilidade para realização de reparos na bicicleta.
-Integrantes: Alan Cézar; Arthur Senger;  Cecília Hoerbe; Felipe Santos; Milena Zang.
+'Integrantes: Alan Cézar; Arthur Senger;  Cecília Hoerbe; Felipe Santos; Milena Zang.'
 ---
 
 
