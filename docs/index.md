@@ -5,7 +5,7 @@ hero:
   name: "Garage Subsolo - Oficina de Bicicletas"
   text: "Documentação — Loja e reparo especializado em bicicletas."
   tagline: "Sistema gerenciador da mecânica, estoque, marketplace e loja física."
-  : "Integrantes: Alan Cézar; Arthur Senger;  Cecília Hoerbe; Felipe Santos; Milena Zang."
+  
 
   actions:
     - theme: brand
@@ -25,5 +25,4 @@ features:
   - title: Requisição de reparo
     details: Possibilidade de solicitar uma reserva e verificar disponibilidade para realização de reparos na bicicleta.
 ---
-
-
+Integrantes: Alan Cézar; Arthur Senger;  Cecília Hoerbe; Felipe Santos; Milena Zang.
