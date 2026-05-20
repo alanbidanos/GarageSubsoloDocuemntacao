@@ -25,4 +25,4 @@ features:
     details: Possibilidade de solicitar uma reserva e verificar disponibilidade para realização de reparos na bicicleta.
 ---
 
-Integrantes: Alan Cézar; Arthur Senger; Felipe Santos; Milena Zang.
+Integrantes: Alan Cézar; Arthur Senger;  Cecília Hoerbe; Felipe Santos; Milena Zang.
